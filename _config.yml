@@ -1,0 +1,9 @@
+highlighter: rogue
+name: Arthur's Ramblings
+description: Just some random things to blog on about
+url: "http://apstemmer.github.io"
+lsi: false
+
+permalink: pretty
+theme: minima
+markdown: kramdown
