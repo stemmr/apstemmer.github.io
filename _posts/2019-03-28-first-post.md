@@ -8,3 +8,9 @@ title:  "Welcome to Jekyll!"
 **Hello world**, this is my first Jekyll blog post.
 
 I hope you like it!
+
+```javascript
+    let proc = function(ex1, ex2){
+        return ex1 && ex2
+    }
+```
