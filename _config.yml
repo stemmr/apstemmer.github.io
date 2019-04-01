@@ -1,9 +1,13 @@
-highlighter: rougue
+highlighter: rouge
 name: Arthur's Ramblings
-description: Just some random things to blog on about
+description: Just some random things to blog about :)
 url: "http://apstemmer.github.io"
 lsi: false
 
 permalink: pretty
 theme: minima
 markdown: kramdown
+
+minima:
+  social_links:
+      github:  apstemmer
